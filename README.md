@@ -2,8 +2,8 @@
 
 A Fully responsive Quiz built using Python's Flask
 
- - [Report  Bug](https://github.com/thepasterover/flask-quiz-app/issues)
- - [Request Feature](https://github.com/thepasterover/flask-quiz-app/issues)
+ - [Report  Bug](https://github.com/abdennuur/quiz_app_v2/issues)
+ - [Request Feature](https://github.com/abdennuur/quiz_app_v2/issues)
 
 Table of contents
 1. [About the project](#about-the-project)
@@ -20,8 +20,6 @@ Table of contents
 
 Preview:
 
-
-https://user-images.githubusercontent.com/50194033/118162704-adb19300-b43e-11eb-9399-279b4fa2afef.mp4
 
 
 This project is a fully responsive Quiz App built using Python's Flask for the backend and custom HTML CSS for the frontend.
@@ -58,10 +56,10 @@ Future Scope:
 
 ```bash
 # clone this repo
-$ git clone https://github.com/thepasterover/flask-quiz-app.git
+$ git clone https://github.com/abdennuur/quiz_app_v2.git
 
 # go to the directory
-$ cd flask-quiz-app
+$ cd quiz_app_v2
 
 # use virtual env if you want
 $ virtualenv ENV && source ENV/bin/activate
@@ -97,7 +95,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Name: Boobalan Shettiyar - boopalanshettiyar78@gmail.com
-ProjectLink: https://github.com/thepasterover/flask-quiz-app
+Name: KHATIB ABDENNOUR - abdnourkhatib@gmail.com
+ProjectLink: https://github.com/abdennuur/quiz_app_v2
 
 
